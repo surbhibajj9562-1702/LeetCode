@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0015-3sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +93,16 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
