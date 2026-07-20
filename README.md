@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0015-3sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0040-combination-sum-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -111,4 +112,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
