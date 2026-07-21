@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,8 +122,13 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
