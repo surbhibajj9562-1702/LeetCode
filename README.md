@@ -77,6 +77,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
