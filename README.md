@@ -133,4 +133,16 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0342-power-of-four/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0342-power-of-four/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
