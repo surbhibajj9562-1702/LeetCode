@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0040-combination-sum-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
