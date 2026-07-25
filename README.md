@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | [0036-valid-sudoku](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0169-majority-element](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -91,6 +92,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -128,6 +131,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +155,8 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0342-power-of-four/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
