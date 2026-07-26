@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [0119-pascals-triangle-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
@@ -170,4 +171,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0079-word-search/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
