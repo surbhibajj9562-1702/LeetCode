@@ -151,6 +151,7 @@ Happy Coding! 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## Counting
