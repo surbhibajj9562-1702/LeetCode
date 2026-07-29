@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sorting
