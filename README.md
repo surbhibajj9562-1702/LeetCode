@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0058-length-of-last-word](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
