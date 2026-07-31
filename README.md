@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -150,6 +151,7 @@ Happy Coding! 🚀
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
