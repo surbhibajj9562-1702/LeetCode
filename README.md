@@ -77,6 +77,7 @@ Happy Coding! 🚀
 | [0031-next-permutation](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0075-sort-colors](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0079-word-search/) | Medium |
@@ -135,6 +136,7 @@ Happy Coding! 🚀
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0079-word-search](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Hash Table
