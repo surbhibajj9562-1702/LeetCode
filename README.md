@@ -95,6 +95,7 @@ Happy Coding! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ Happy Coding! 🚀
 | [0008-string-to-integer-atoi](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0058-length-of-last-word](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/surbhibajj9562-1702/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
